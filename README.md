@@ -85,12 +85,6 @@ To help families and communities coordinate Shabbat, holidays, meals, and events
 
 ---
 
-## 🖼️ Screenshots
-
-(Add relevant screenshots here: meal creation form, Shabbat view, dashboard, etc.)
-
----
-
 ## 📄 Additional Info
 
 - Developed as part of a 2025 internship  
