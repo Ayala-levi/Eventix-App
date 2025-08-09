@@ -44,7 +44,8 @@ Eventix is a community-oriented platform for managing family and communal life, 
 - 📊 Built an analytics dashboard with graphs for Events, Meals, and ShabbatSync  
 - 📈 Implemented Weekly Active Accounts metric  
 - 🚀 Production deployment (Render, Cloudflare, Supabase, env variables)  
-
+📚 [Project Book – Full Documentation & My Development Tasks](https://drive.google.com/file/d/1YFo6P_7ktjlZ3goXneQjOl8YpzOeoJNi/view?usp=sharing)  
+Includes project goals, client and company background, system description, work process, and a detailed breakdown of the features and development tasks I personally implemented.
 ---
 
 ## 🔐 Admin Permissions
