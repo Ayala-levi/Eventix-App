@@ -45,8 +45,10 @@ Eventix is a community-oriented platform for managing family and communal life, 
 - 🌐 **Advanced Navigation Bar** – Developed a responsive navigation bar with profile image, multi-language support, and dynamic permissions-based UI.
 - 🧾 **Connected User Endpoint** – Created an endpoint to fetch real-time data of the logged-in user.
 - 🧑‍🍳 **User and Dietary Preferences Tables** – Developed an efficient and structured data model for managing users and their dietary preferences.
+
 📚 [Project Book – Full Documentation & My Development Tasks](https://drive.google.com/file/d/1YFo6P_7ktjlZ3goXneQjOl8YpzOeoJNi/view?usp=sharing)  
 Includes project goals, client and company background, system description, work process, and a detailed breakdown of the features and development tasks I personally implemented.
+
 ---
 
 ## 🔐 Admin Permissions
