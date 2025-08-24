@@ -36,14 +36,15 @@ Eventix is a community-oriented platform for managing family and communal life, 
 
 ## 👩‍💻 Responsibilities & Personal Contribution
 
-- 🔐 Google Sign-In integration + JWT handling  
-- 🧾 Endpoint to fetch connected user via token  
-- 🧑‍🍳 User table setup + dietary preferences structure  
-- 🛡️ Admin permissions (user management, meal deletion, view all Shabbat/events)  
-- 🌐 Responsive navigation with translation, profile image, and permission-based UI  
-- 📊 Built an analytics dashboard with graphs for Events, Meals, and ShabbatSync  
-- 📈 Implemented Weekly Active Accounts metric  
-- 🚀 Production deployment (Render, Cloudflare, Supabase, env variables)  
+- 🚀 **Production Deployment** – Deployed the application to Render, Cloudflare, and Supabase with proper environment variable management.
+- 🔐 **Google SSO Integration & Security Improvements** – Implemented secure login with Google Sign-In and enhanced JWT handling.
+- 🏢 **Admin Permissions Setup** – Defined access controls for user management, meal deletion, and viewing all events and Shabbat.
+- 🛡️ **JWT Middleware Development** – Built a robust token authentication middleware to secure protected resources.
+- 📊 **Analytics Dashboard Design** – Designed an interactive dashboard displaying key metrics for events, meals, and ShabbatSync.
+- 📈 **Weekly Active Accounts Metric** – Implemented analysis and reporting of weekly active user statistics.
+- 🌐 **Advanced Navigation Bar** – Developed a responsive navigation bar with profile image, multi-language support, and dynamic permissions-based UI.
+- 🧾 **Connected User Endpoint** – Created an endpoint to fetch real-time data of the logged-in user.
+- 🧑‍🍳 **User and Dietary Preferences Tables** – Developed an efficient and structured data model for managing users and their dietary preferences.
 📚 [Project Book – Full Documentation & My Development Tasks](https://drive.google.com/file/d/1YFo6P_7ktjlZ3goXneQjOl8YpzOeoJNi/view?usp=sharing)  
 Includes project goals, client and company background, system description, work process, and a detailed breakdown of the features and development tasks I personally implemented.
 ---
